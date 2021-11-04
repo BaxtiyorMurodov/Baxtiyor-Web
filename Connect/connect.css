@@ -1,0 +1,51 @@
+.main__left{
+    width: 550px;
+    margin-left: 100px;
+}
+.main__left_div{
+    border: 1px solid rgb(218, 198, 198);
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #E6E6E6;
+}
+.main__left_div h3{
+    font-size: 16px;
+}
+
+main{
+    position: relative;
+}
+.main__right{
+position: absolute;
+top: 5px;
+right: 200px;
+background-color: #35424a;  
+padding: 30px;
+}
+
+.main__right input{
+    margin: 5px 0;
+    outline: none;
+    
+    
+}
+
+.main__right label{
+      margin: 5px 0;
+}
+
+
+.main__right a{
+    text-decoration: none;
+    font-size: 15px;
+    padding: 4px 18px;
+    background-color: #E8491D;
+    color: #fff;
+    margin-top: 15px;
+}
+.main__right h1{
+    color: #fff;
+}
+.main__right label{
+    color: #fff;
+}

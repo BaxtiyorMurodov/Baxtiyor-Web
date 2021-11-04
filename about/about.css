@@ -1,0 +1,29 @@
+.section-main {
+    
+    margin-left: 100px ;
+    /* font-family: monospace; */
+    position: relative;
+    height: 300px;
+}
+
+.text-left{
+    width: 500px;
+
+}
+
+.text {
+    background: #35424a;
+    color: #fff;
+    padding: 10px;
+    
+}
+
+.text-right {
+    background: #35424a;
+    width: 300px;
+    color: #fff;
+    padding: 10px;
+    position: absolute;
+    right: 50px;
+    top: 0;
+}
