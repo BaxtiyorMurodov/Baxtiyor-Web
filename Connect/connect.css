@@ -49,3 +49,14 @@ padding: 30px;
 .main__right label{
     color: #fff;
 }
+.btn{
+ 
+    border-radius: 6px;
+}
+.btn:hover,
+.btn:active{
+    background-color: rgb(21, 194, 36);
+}
+.btn:active{
+    opacity: 0.4;
+}
